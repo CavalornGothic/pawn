@@ -1,0 +1,46 @@
+if(RegistrationStep[playerid] == 1)
+	{
+		new age = strval(text);
+	    if (age >= 16 && age <= 100)
+	 	{
+		 	new wstring[128];
+		    format(wstring, sizeof(wstring), "[INFO:] You have set your age to: %d.", age);
+		    SendClientMessage(playerid,COLOR_LIGHTYELLOW2, wstring);
+	    	PlayerInfo[playerid][pAge] = age;
+	    	RegistrationStep[playerid] = 2;
+	 	    SendClientMessage(playerid,COLOR_LIGHTYELLOW2,"[INFO:] What's your Sex? Please type, Male or Female.");
+	 	}
+	 	else
+	 	{
+	 	    SendClientMessage(playerid,COLOR_RED,"[INFO:] Invalid age, correct ages are 16-100.");
+	 	}
+		return 0;
+	}
+ 	if(RegistrationStep[playerid] == 2)
+  	{
+  	    new idx2;
+    	tmp = strtok(text, idx2);
+	    if((strcmp("male", tmp, true, strlen(tmp)) == 0) && (strlen(tmp) == strlen("male")))
+		{
+  			PlayerInfo[playerid][pSex] = 1;
+   			SendClientMessage(playerid, COLOR_LIGHTYELLOW2, "[INFO:] You have set your sex to: Male.");
+	    	RegistrationStep[playerid] = 0;
+			TogglePlayerControllable(playerid,1);
+			PlayerInfo[playerid][pRegistered] = 1;
+		    return 0;
+		}
+		else if((strcmp("female", tmp, true, strlen(tmp)) == 0) && (strlen(tmp) == strlen("female")))
+		{
+  			PlayerInfo[playerid][pSex] = 2;
+  			SendClientMessage(playerid, COLOR_LIGHTYELLOW2, "[INFO:] You have set your sex to: Female.");
+			RegistrationStep[playerid] = 0;
+			TogglePlayerControllable(playerid,1);
+			PlayerInfo[playerid][pRegistered] = 1;
+   			return 0;
+		}
+		else
+		{
+  			SendClientMessage(playerid, COLOR_RED, "[INFO:] Invalid sex, type male/female.");
+	 	}
+		return 0;
+	}

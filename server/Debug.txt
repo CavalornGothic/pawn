@@ -1,0 +1,129 @@
+[22:33:17]  
+[22:33:17] ---------------------------
+[22:33:17] MySQL Debugging activated (08/13/17)
+[22:33:17] ---------------------------
+[22:33:17]  
+[22:33:47] >> mysql_query( Connection handle: 1 )
+[22:33:47] CMySQLHandler::Query(select `id` from `players` where `login`='Thorus') - Successfully executed.
+[22:33:47] >> mysql_store_result( Connection handle: 1 )
+[22:33:47] CMySQLHandler::StoreResult() - Result was stored.
+[22:33:47] >> mysql_num_rows( Connection handle: 1 )
+[22:33:47] CMySQLHandler::NumRows() - Returned 0 row(s)
+[22:33:47] >> mysql_free_result( Connection handle: 1 )
+[22:33:47] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:33:54] >> mysql_query( Connection handle: 1 )
+[22:33:54] CMySQLHandler::Query(update `players` set `kasa`='0',`level`='0',`exp`='0',`wexp`='0', `skin`='0',`prawko`='0',`pilotaz`='0',`motor`='0',`lickabron`='0',`admin`='0',`vip`='0',`praca`='0',`idf`='0',`ranga`='0' where `login`='Thorus') - Successfully executed.
+[22:33:54] >> mysql_query( Connection handle: 1 )
+[22:33:54] CMySQLHandler::Query(update `players` set `slot`='0',`slot1`='0',`slot2`='0',`ammo2`='0',`slot3`='0',`ammo3`='0',`slot4`='0',`ammo4`='0',`slot5`='0',`ammo5`='0',`slot6`='0',`ammo6`='0',`slot9`='0',`ammo9`='0',`slot10`='0' where `login`='Thorus') - Successfully executed.
+[22:34:03] >> mysql_close( Connection handle: 1 )
+[22:34:03] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[22:34:03] CMySQLHandler::FreeResult() - The result is already empty.
+[22:34:03] CMySQLHandler::Disconnect() - Connection was closed.
+[22:34:23]  
+[22:34:23] ---------------------------
+[22:34:23] MySQL Debugging activated (08/13/17)
+[22:34:23] ---------------------------
+[22:34:23]  
+[22:34:58] >> mysql_query( Connection handle: 1 )
+[22:34:58] CMySQLHandler::Query(select `id` from `players` where `login`='Thorus') - Successfully executed.
+[22:34:58] >> mysql_store_result( Connection handle: 1 )
+[22:34:58] CMySQLHandler::StoreResult() - Result was stored.
+[22:34:58] >> mysql_num_rows( Connection handle: 1 )
+[22:34:58] CMySQLHandler::NumRows() - Returned 0 row(s)
+[22:34:58] >> mysql_free_result( Connection handle: 1 )
+[22:34:58] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:35:04] >> mysql_query( Connection handle: 1 )
+[22:35:04] CMySQLHandler::Query(INSERT INTO `players` (`login`, `haslo`) VALUES ('Thorus', 'thorus')) - Successfully executed.
+[22:35:04] >> mysql_free_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FreeResult() - The result is already empty.
+[22:35:04] >> mysql_query( Connection handle: 1 )
+[22:35:04] CMySQLHandler::Query(select `haslo` from `players` where `login`='Thorus' ) - Successfully executed.
+[22:35:04] >> mysql_store_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::StoreResult() - Result was stored.
+[22:35:04] >> mysql_fetch_row_format( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FetchRow() - Return: thorus
+[22:35:04] >> mysql_free_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:35:04] >> mysql_query( Connection handle: 1 )
+[22:35:04] CMySQLHandler::Query(select `id`, `kasa`,`level`,`exp`,`wexp`,`skin`,`prawko`,`pilotaz`,`motor`,`lickabron`,`admin`,`vip`,`praca`,`idf`,`ranga` from `players` where `login`='Thorus'  ) - Successfully executed.
+[22:35:04] >> mysql_store_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::StoreResult() - Result was stored.
+[22:35:04] >> mysql_fetch_row_format( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FetchRow() - Return: 1|100|1|0|4|72|0|0|0|0|0|0|0|0|0
+[22:35:04] >> mysql_free_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:35:04] >> mysql_query( Connection handle: 1 )
+[22:35:04] CMySQLHandler::Query(select `slot`,`slot1`, `slot2`, `ammo2`, `slot3`,`ammo3`, `slot4`,`ammo4`,`slot5`,`ammo5`,`slot6`,`ammo6`,`slot9`,`ammo9`,`slot10` from `players` where `login`='Thorus') - Successfully executed.
+[22:35:04] >> mysql_store_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::StoreResult() - Result was stored.
+[22:35:04] >> mysql_fetch_row_format( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FetchRow() - Return: 0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+[22:35:04] >> mysql_free_result( Connection handle: 1 )
+[22:35:04] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:35:39] >> mysql_query( Connection handle: 1 )
+[22:35:39] CMySQLHandler::Query(update `players` set `kasa`='100',`level`='1',`exp`='0',`wexp`='4', `skin`='72',`prawko`='0',`pilotaz`='0',`motor`='0',`lickabron`='0',`admin`='0',`vip`='0',`praca`='0',`idf`='0',`ranga`='0' where `login`='Thorus') - Successfully executed.
+[22:35:39] >> mysql_query( Connection handle: 1 )
+[22:35:39] CMySQLHandler::Query(update `players` set `slot`='0',`slot1`='0',`slot2`='0',`ammo2`='0',`slot3`='0',`ammo3`='0',`slot4`='0',`ammo4`='0',`slot5`='0',`ammo5`='0',`slot6`='0',`ammo6`='0',`slot9`='0',`ammo9`='0',`slot10`='0' where `login`='Thorus') - Successfully executed.
+[22:35:44] >> mysql_close( Connection handle: 1 )
+[22:35:44] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[22:35:44] CMySQLHandler::FreeResult() - The result is already empty.
+[22:35:44] CMySQLHandler::Disconnect() - Connection was closed.
+[22:37:00]  
+[22:37:00] ---------------------------
+[22:37:00] MySQL Debugging activated (08/13/17)
+[22:37:00] ---------------------------
+[22:37:00]  
+[22:37:55] >> mysql_close( Connection handle: 1 )
+[22:37:55] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[22:37:55] CMySQLHandler::FreeResult() - The result is already empty.
+[22:37:55] CMySQLHandler::Disconnect() - Connection was closed.
+[22:37:57]  
+[22:37:57] ---------------------------
+[22:37:57] MySQL Debugging activated (08/13/17)
+[22:37:57] ---------------------------
+[22:37:57]  
+[22:38:30] >> mysql_query( Connection handle: 1 )
+[22:38:30] CMySQLHandler::Query(select `id` from `players` where `login`='Thorus') - Successfully executed.
+[22:38:30] >> mysql_store_result( Connection handle: 1 )
+[22:38:30] CMySQLHandler::StoreResult() - Result was stored.
+[22:38:30] >> mysql_num_rows( Connection handle: 1 )
+[22:38:30] CMySQLHandler::NumRows() - Returned 1 row(s)
+[22:38:30] >> mysql_free_result( Connection handle: 1 )
+[22:38:30] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:38:35] >> mysql_query( Connection handle: 1 )
+[22:38:35] CMySQLHandler::Query(select `haslo` from `players` where `login`='Thorus' ) - Successfully executed.
+[22:38:35] >> mysql_store_result( Connection handle: 1 )
+[22:38:35] CMySQLHandler::StoreResult() - Result was stored.
+[22:38:35] >> mysql_fetch_row_format( Connection handle: 1 )
+[22:38:35] CMySQLHandler::FetchRow() - Return: thorus
+[22:38:35] >> mysql_free_result( Connection handle: 1 )
+[22:38:35] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:38:35] >> mysql_query( Connection handle: 1 )
+[22:38:35] CMySQLHandler::Query(select `id`, `kasa`,`level`,`exp`,`wexp`,`skin`,`prawko`,`pilotaz`,`motor`,`lickabron`,`admin`,`vip`,`praca`,`idf`,`ranga` from `players` where `login`='Thorus'  ) - Successfully executed.
+[22:38:35] >> mysql_store_result( Connection handle: 1 )
+[22:38:35] CMySQLHandler::StoreResult() - Result was stored.
+[22:38:35] >> mysql_fetch_row_format( Connection handle: 1 )
+[22:38:35] CMySQLHandler::FetchRow() - Return: 1|100|1|0|4|72|0|0|0|0|3|0|0|0|0
+[22:38:35] >> mysql_free_result( Connection handle: 1 )
+[22:38:35] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:38:35] >> mysql_query( Connection handle: 1 )
+[22:38:35] CMySQLHandler::Query(select `slot`,`slot1`, `slot2`, `ammo2`, `slot3`,`ammo3`, `slot4`,`ammo4`,`slot5`,`ammo5`,`slot6`,`ammo6`,`slot9`,`ammo9`,`slot10` from `players` where `login`='Thorus') - Successfully executed.
+[22:38:35] >> mysql_store_result( Connection handle: 1 )
+[22:38:35] CMySQLHandler::StoreResult() - Result was stored.
+[22:38:35] >> mysql_fetch_row_format( Connection handle: 1 )
+[22:38:35] CMySQLHandler::FetchRow() - Return: 0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+[22:38:35] >> mysql_free_result( Connection handle: 1 )
+[22:38:35] CMySQLHandler::FreeResult() - Result was successfully free'd.
+[22:39:04] >> mysql_query( Connection handle: 1 )
+[22:39:04] CMySQLHandler::Query(insert into `veh` (`vx`, `vy`,`vz`,`va`) values ('', '', '', '')) - Successfully executed.
+[22:39:04] >> mysql_insert_id( Connection handle: 1 )
+[22:40:35] >> mysql_query( Connection handle: 1 )
+[22:40:35] CMySQLHandler::Query(update `players` set `kasa`='100',`level`='1',`exp`='0',`wexp`='4', `skin`='72',`prawko`='0',`pilotaz`='0',`motor`='0',`lickabron`='0',`admin`='3',`vip`='0',`praca`='0',`idf`='0',`ranga`='0' where `login`='Thorus') - Successfully executed.
+[22:40:35] >> mysql_query( Connection handle: 1 )
+[22:40:35] CMySQLHandler::Query(update `players` set `slot`='0',`slot1`='0',`slot2`='0',`ammo2`='0',`slot3`='0',`ammo3`='0',`slot4`='0',`ammo4`='0',`slot5`='0',`ammo5`='0',`slot6`='0',`ammo6`='0',`slot9`='0',`ammo9`='0',`slot10`='0' where `login`='Thorus') - Successfully executed.
+[22:40:38] >> mysql_query( Connection handle: 1 )
+[22:40:38] CMySQLHandler::Query(update `veh` set `model`='602', `vx`='-276.384216', `vy`='1096.259155', `vz`='-276.384216', `va`='253.872741', `kolor`='1', `kolor2`='2', `typ`='0', `fid`='0', `cena`='0', `ido`='0' where `id`='1') - Successfully executed.
+[22:40:38] >> mysql_close( Connection handle: 1 )
+[22:40:38] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[22:40:38] CMySQLHandler::FreeResult() - The result is already empty.
+[22:40:38] CMySQLHandler::Disconnect() - Connection was closed.

@@ -1,0 +1,2372 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:05:35] filterscripts = ""  (string)
+[09:05:35] 
+[09:05:35] Server Plugins
+[09:05:35] --------------
+[09:05:35]  Loading plugin: mysql.dll
+[09:05:35] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:05:35]   Loaded.
+[09:05:35]  Loading plugin: streamer.dll
+[09:05:35] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:05:35]   Loaded.
+[09:05:35]  Loading plugin: sscanf.dll
+[09:05:35] 
+
+[09:05:35]  ===============================
+
+[09:05:35]       sscanf plugin loaded.     
+
+[09:05:35]          Version:  2.8.1        
+
+[09:05:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:05:35]  ===============================
+
+[09:05:35]   Loaded.
+[09:05:35]  Loaded 3 plugins.
+
+[09:05:35] 
+[09:05:35] Filterscripts
+[09:05:35] ---------------
+[09:05:35]   Loaded 0 filterscripts.
+
+[09:05:35] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:05:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:05:35] [system] Polaczono!
+[09:05:35] [system] wczytywanie pojazdow..
+[09:05:35] [system] 4 pojazd(ow) wczytanych
+[09:05:35] [System:] Zaczynam wczytywac organizacje....
+[09:05:35] [System] Wczytano 3 organizacji
+[09:05:35] [system] wczytuje budynki..
+[09:05:35] [system] wczytano 6 budynkow
+[09:05:35] [system] wczytywanie biznesow..
+[09:05:35] [system] 19 biznesow wczytano
+[09:05:35] Number of vehicle models: 3
+Console input: exit
+[09:05:38] --- Server Shutting Down.
+[09:05:38] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:05:38] [system] zaczynam zapisywac systemy..
+[09:05:38] [system] zapisano biznes: index: 1 | idDB: 8
+[09:05:38] [system] zapisano biznes: index: 2 | idDB: 9
+[09:05:38] [system] zapisano biznes: index: 3 | idDB: 10
+[09:05:38] [system] zapisano biznes: index: 4 | idDB: 11
+[09:05:38] [system] zapisano biznes: index: 5 | idDB: 12
+[09:05:38] [system] zapisano biznes: index: 6 | idDB: 13
+[09:05:38] [system] zapisano biznes: index: 7 | idDB: 14
+[09:05:38] [system] zapisano biznes: index: 8 | idDB: 15
+[09:05:39] [system] zapisano biznes: index: 9 | idDB: 16
+[09:05:39] [system] zapisano biznes: index: 10 | idDB: 17
+[09:05:39] [system] zapisano biznes: index: 11 | idDB: 18
+[09:05:39] [system] zapisano biznes: index: 12 | idDB: 19
+[09:05:39] [system] zapisano biznes: index: 13 | idDB: 20
+[09:05:39] [system] zapisano biznes: index: 14 | idDB: 21
+[09:05:39] [system] zapisano biznes: index: 15 | idDB: 22
+[09:05:39] [system] zapisano biznes: index: 16 | idDB: 23
+[09:05:39] [system] zapisano biznes: index: 17 | idDB: 24
+[09:05:39] [system] zapisano biznes: index: 18 | idDB: 25
+[09:05:39] [system] zapisano biznes: index: 19 | idDB: 26
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:07:25] filterscripts = ""  (string)
+[09:07:25] 
+[09:07:25] Server Plugins
+[09:07:25] --------------
+[09:07:25]  Loading plugin: mysql.dll
+[09:07:25] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:07:25]   Loaded.
+[09:07:25]  Loading plugin: streamer.dll
+[09:07:26] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:07:26]   Loaded.
+[09:07:26]  Loading plugin: sscanf.dll
+[09:07:26] 
+
+[09:07:26]  ===============================
+
+[09:07:26]       sscanf plugin loaded.     
+
+[09:07:26]          Version:  2.8.1        
+
+[09:07:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:07:26]  ===============================
+
+[09:07:26]   Loaded.
+[09:07:26]  Loaded 3 plugins.
+
+[09:07:26] 
+[09:07:26] Filterscripts
+[09:07:26] ---------------
+[09:07:26]   Loaded 0 filterscripts.
+
+[09:07:26] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:07:26] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:07:26] [system] Polaczono!
+[09:07:26] [system] wczytywanie pojazdow..
+[09:07:26] [system] 4 pojazd(ow) wczytanych
+[09:07:26] [System:] Zaczynam wczytywac organizacje....
+[09:07:26] [System] Wczytano 3 organizacji
+[09:07:26] [system] wczytuje budynki..
+[09:07:26] [system] wczytano 6 budynkow
+[09:07:26] [system] wczytywanie biznesow..
+[09:07:26] [system] 19 biznesow wczytano
+[09:07:26] Number of vehicle models: 3
+Console input: exit
+[09:07:28] --- Server Shutting Down.
+[09:07:28] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:07:28] [system] zaczynam zapisywac systemy..
+[09:07:28] [system] zapisano biznes: index: 1 | idDB: 8
+[09:07:28] [system] zapisano biznes: index: 2 | idDB: 9
+[09:07:28] [system] zapisano biznes: index: 3 | idDB: 10
+[09:07:28] [system] zapisano biznes: index: 4 | idDB: 11
+[09:07:28] [system] zapisano biznes: index: 5 | idDB: 12
+[09:07:28] [system] zapisano biznes: index: 6 | idDB: 13
+[09:07:28] [system] zapisano biznes: index: 7 | idDB: 14
+[09:07:28] [system] zapisano biznes: index: 8 | idDB: 15
+[09:07:28] [system] zapisano biznes: index: 9 | idDB: 16
+[09:07:28] [system] zapisano biznes: index: 10 | idDB: 17
+[09:07:28] [system] zapisano biznes: index: 11 | idDB: 18
+[09:07:28] [system] zapisano biznes: index: 12 | idDB: 19
+[09:07:28] [system] zapisano biznes: index: 13 | idDB: 20
+[09:07:28] [system] zapisano biznes: index: 14 | idDB: 21
+[09:07:28] [system] zapisano biznes: index: 15 | idDB: 22
+[09:07:29] [system] zapisano biznes: index: 16 | idDB: 23
+[09:07:29] [system] zapisano biznes: index: 17 | idDB: 24
+[09:07:29] [system] zapisano biznes: index: 18 | idDB: 25
+[09:07:29] [system] zapisano biznes: index: 19 | idDB: 26
+[09:07:29] [system] koniec zapisu systemow.
+[09:07:29] 
+
+  > MySQL plugin unloaded.
+
+[09:07:29] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[09:07:29] 
+
+[09:07:29]  ===============================
+
+[09:07:29]      sscanf plugin unloaded.    
+
+[09:07:29]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:11:01] filterscripts = ""  (string)
+[09:11:01] 
+[09:11:01] Server Plugins
+[09:11:01] --------------
+[09:11:01]  Loading plugin: mysql.dll
+[09:11:01] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:11:01]   Loaded.
+[09:11:01]  Loading plugin: streamer.dll
+[09:11:01] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:11:01]   Loaded.
+[09:11:01]  Loading plugin: sscanf.dll
+[09:11:01] 
+
+[09:11:01]  ===============================
+
+[09:11:01]       sscanf plugin loaded.     
+
+[09:11:01]          Version:  2.8.1        
+
+[09:11:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:11:01]  ===============================
+
+[09:11:01]   Loaded.
+[09:11:01]  Loaded 3 plugins.
+
+[09:11:01] 
+[09:11:01] Filterscripts
+[09:11:01] ---------------
+[09:11:01]   Loaded 0 filterscripts.
+
+[09:11:01] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:11:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:11:01] [system] Polaczono!
+[09:11:01] [system] wczytywanie pojazdow..
+[09:11:01] [system] 4 pojazd(ow) wczytanych
+[09:11:01] [System:] Zaczynam wczytywac organizacje....
+[09:11:01] [System] Wczytano 3 organizacji
+[09:11:01] [system] wczytuje budynki..
+[09:11:01] [system] wczytano 6 budynkow
+[09:11:01] [system] wczytywanie biznesow..
+[09:11:01] [system] 19 biznesow wczytano
+[09:11:01] Number of vehicle models: 3
+Console input: exit
+[09:11:06] --- Server Shutting Down.
+[09:11:06] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:11:06] [system] zaczynam zapisywac systemy..
+[09:11:06] [system] zapisano biznes: index: 1 | idDB: 8
+[09:11:06] [system] zapisano biznes: index: 2 | idDB: 9
+[09:11:06] [system] zapisano biznes: index: 3 | idDB: 10
+[09:11:06] [system] zapisano biznes: index: 4 | idDB: 11
+[09:11:06] [system] zapisano biznes: index: 5 | idDB: 12
+[09:11:06] [system] zapisano biznes: index: 6 | idDB: 13
+[09:11:06] [system] zapisano biznes: index: 7 | idDB: 14
+[09:11:06] [system] zapisano biznes: index: 8 | idDB: 15
+[09:11:06] [system] zapisano biznes: index: 9 | idDB: 16
+[09:11:06] [system] zapisano biznes: index: 10 | idDB: 17
+[09:11:06] [system] zapisano biznes: index: 11 | idDB: 18
+[09:11:06] [system] zapisano biznes: index: 12 | idDB: 19
+[09:11:06] [system] zapisano biznes: index: 13 | idDB: 20
+[09:11:06] [system] zapisano biznes: index: 14 | idDB: 21
+[09:11:06] [system] zapisano biznes: index: 15 | idDB: 22
+[09:11:07] [system] zapisano biznes: index: 16 | idDB: 23
+[09:11:07] [system] zapisano biznes: index: 17 | idDB: 24
+[09:11:07] [system] zapisano biznes: index: 18 | idDB: 25
+[09:11:07] [system] zapisano biznes: index: 19 | idDB: 26
+[09:11:07] [system] zapisano 20 biznesow
+[09:11:07] [system] zapisano pojazd idDB: 1
+[09:11:07] [system] zapisano pojazd idDB: 2
+[09:11:07] [system] zapisano pojazd idDB: 3
+[09:11:07] [system] zapisano pojazd idDB: 4
+[09:11:07] [system] zapisano 5 pojazdow
+[09:11:07] [system] koniec zapisu systemow.
+[09:11:07] 
+
+  > MySQL plugin unloaded.
+
+[09:11:07] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[09:11:07] 
+
+[09:11:07]  ===============================
+
+[09:11:07]      sscanf plugin unloaded.    
+
+[09:11:07]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:11:39] filterscripts = ""  (string)
+[09:11:39] 
+[09:11:39] Server Plugins
+[09:11:39] --------------
+[09:11:39]  Loading plugin: mysql.dll
+[09:11:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:11:39]   Loaded.
+[09:11:39]  Loading plugin: streamer.dll
+[09:11:39] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:11:39]   Loaded.
+[09:11:39]  Loading plugin: sscanf.dll
+[09:11:39] 
+
+[09:11:39]  ===============================
+
+[09:11:39]       sscanf plugin loaded.     
+
+[09:11:39]          Version:  2.8.1        
+
+[09:11:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:11:39]  ===============================
+
+[09:11:39]   Loaded.
+[09:11:39]  Loaded 3 plugins.
+
+[09:11:39] 
+[09:11:39] Filterscripts
+[09:11:39] ---------------
+[09:11:39]   Loaded 0 filterscripts.
+
+[09:11:39] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:11:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:11:39] [system] Polaczono!
+[09:11:39] [system] wczytywanie pojazdow..
+[09:11:39] [system] 4 pojazd(ow) wczytanych
+[09:11:39] [System:] Zaczynam wczytywac organizacje....
+[09:11:39] [System] Wczytano 3 organizacji
+[09:11:39] [system] wczytuje budynki..
+[09:11:39] [system] wczytano 6 budynkow
+[09:11:39] [system] wczytywanie biznesow..
+[09:11:39] [system] 19 biznesow wczytano
+[09:11:39] Number of vehicle models: 3
+Console input: exit
+[09:11:40] --- Server Shutting Down.
+[09:11:40] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:11:40] [system] zaczynam zapisywac systemy..
+[09:11:40] [system] zapisano biznes: index: 1 | idDB: 8
+[09:11:41] [system] zapisano biznes: index: 2 | idDB: 9
+[09:11:41] [system] zapisano biznes: index: 3 | idDB: 10
+[09:11:41] [system] zapisano biznes: index: 4 | idDB: 11
+[09:11:41] [system] zapisano biznes: index: 5 | idDB: 12
+[09:11:41] [system] zapisano biznes: index: 6 | idDB: 13
+[09:11:41] [system] zapisano biznes: index: 7 | idDB: 14
+[09:11:41] [system] zapisano biznes: index: 8 | idDB: 15
+[09:11:41] [system] zapisano biznes: index: 9 | idDB: 16
+[09:11:41] [system] zapisano biznes: index: 10 | idDB: 17
+[09:11:41] [system] zapisano biznes: index: 11 | idDB: 18
+[09:11:41] [system] zapisano biznes: index: 12 | idDB: 19
+[09:11:41] [system] zapisano biznes: index: 13 | idDB: 20
+[09:11:41] [system] zapisano biznes: index: 14 | idDB: 21
+[09:11:41] [system] zapisano biznes: index: 15 | idDB: 22
+[09:11:41] [system] zapisano biznes: index: 16 | idDB: 23
+[09:11:41] [system] zapisano biznes: index: 17 | idDB: 24
+[09:11:41] [system] zapisano biznes: index: 18 | idDB: 25
+[09:11:41] [system] zapisano biznes: index: 19 | idDB: 26
+[09:11:41] [system] zapisano 20 biznesow
+[09:11:41] [system] zapisano pojazd idDB: 1
+[09:11:41] [system] zapisano pojazd idDB: 2
+[09:11:41] [system] zapisano pojazd idDB: 3
+[09:11:41] [system] zapisano pojazd idDB: 4
+[09:11:41] [system] zapisano 5 pojazdow
+[09:11:41] [system] koniec zapisu systemow.
+[09:11:41] 
+
+  > MySQL plugin unloaded.
+
+[09:11:41] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[09:11:41] 
+
+[09:11:41]  ===============================
+
+[09:11:41]      sscanf plugin unloaded.    
+
+[09:11:41]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:12:12] filterscripts = ""  (string)
+[09:12:12] 
+[09:12:12] Server Plugins
+[09:12:12] --------------
+[09:12:12]  Loading plugin: mysql.dll
+[09:12:12] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:12:12]   Loaded.
+[09:12:12]  Loading plugin: streamer.dll
+[09:12:12] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:12:12]   Loaded.
+[09:12:12]  Loading plugin: sscanf.dll
+[09:12:12] 
+
+[09:12:12]  ===============================
+
+[09:12:12]       sscanf plugin loaded.     
+
+[09:12:12]          Version:  2.8.1        
+
+[09:12:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:12:12]  ===============================
+
+[09:12:12]   Loaded.
+[09:12:12]  Loaded 3 plugins.
+
+[09:12:12] 
+[09:12:12] Filterscripts
+[09:12:12] ---------------
+[09:12:12]   Loaded 0 filterscripts.
+
+[09:12:12] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:12:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:12:12] [system] Polaczono!
+[09:12:12] [system] wczytywanie pojazdow..
+[09:12:12] [system] 4 pojazd(ow) wczytanych
+[09:12:12] [System:] Zaczynam wczytywac organizacje....
+[09:12:12] [System] Wczytano 3 organizacji
+[09:12:12] [system] wczytuje budynki..
+[09:12:12] [system] wczytano 6 budynkow
+[09:12:12] [system] wczytywanie biznesow..
+[09:12:12] [system] 19 biznesow wczytano
+[09:12:12] Number of vehicle models: 3
+Console input: exit
+[09:12:15] --- Server Shutting Down.
+[09:12:15] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:12:15] [system] zaczynam zapisywac systemy..
+[09:12:15] [system] zapisano biznes: index: 1 | idDB: 8
+[09:12:15] [system] zapisano biznes: index: 2 | idDB: 9
+[09:12:15] [system] zapisano biznes: index: 3 | idDB: 10
+[09:12:15] [system] zapisano biznes: index: 4 | idDB: 11
+[09:12:15] [system] zapisano biznes: index: 5 | idDB: 12
+[09:12:15] [system] zapisano biznes: index: 6 | idDB: 13
+[09:12:15] [system] zapisano biznes: index: 7 | idDB: 14
+[09:12:15] [system] zapisano biznes: index: 8 | idDB: 15
+[09:12:15] [system] zapisano biznes: index: 9 | idDB: 16
+[09:12:15] [system] zapisano biznes: index: 10 | idDB: 17
+[09:12:15] [system] zapisano biznes: index: 11 | idDB: 18
+[09:12:15] [system] zapisano biznes: index: 12 | idDB: 19
+[09:12:15] [system] zapisano biznes: index: 13 | idDB: 20
+[09:12:15] [system] zapisano biznes: index: 14 | idDB: 21
+[09:12:15] [system] zapisano biznes: index: 15 | idDB: 22
+[09:12:15] [system] zapisano biznes: index: 16 | idDB: 23
+[09:12:15] [system] zapisano biznes: index: 17 | idDB: 24
+[09:12:15] [system] zapisano biznes: index: 18 | idDB: 25
+[09:12:15] [system] zapisano biznes: index: 19 | idDB: 26
+[09:12:15] [system] zapisano 20 biznesow
+[09:12:15] [system] zapisano pojazd idDB: 1
+[09:12:15] [system] zapisano pojazd idDB: 2
+[09:12:15] [system] zapisano pojazd idDB: 3
+[09:12:15] [system] zapisano pojazd idDB: 4
+[09:12:15] [system] zapisano 5 pojazdow
+[09:12:15] [system] koniec zapisu systemow.
+[09:12:15] 
+
+  > MySQL plugin unloaded.
+
+[09:12:15] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[09:12:15] 
+
+[09:12:15]  ===============================
+
+[09:12:15]      sscanf plugin unloaded.    
+
+[09:12:15]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:12:38] filterscripts = ""  (string)
+[09:12:38] 
+[09:12:38] Server Plugins
+[09:12:38] --------------
+[09:12:38]  Loading plugin: mysql.dll
+[09:12:38] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:12:38]   Loaded.
+[09:12:38]  Loading plugin: streamer.dll
+[09:12:38] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:12:38]   Loaded.
+[09:12:38]  Loading plugin: sscanf.dll
+[09:12:38] 
+
+[09:12:38]  ===============================
+
+[09:12:38]       sscanf plugin loaded.     
+
+[09:12:38]          Version:  2.8.1        
+
+[09:12:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:12:38]  ===============================
+
+[09:12:38]   Loaded.
+[09:12:38]  Loaded 3 plugins.
+
+[09:12:38] 
+[09:12:38] Filterscripts
+[09:12:38] ---------------
+[09:12:38]   Loaded 0 filterscripts.
+
+[09:12:38] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:12:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:12:38] [system] Polaczono!
+[09:12:38] [system] wczytywanie pojazdow..
+[09:12:38] [system] 4 pojazd(ow) wczytanych
+[09:12:38] [System:] Zaczynam wczytywac organizacje....
+[09:12:38] [System] Wczytano 3 organizacji
+[09:12:38] [system] wczytuje budynki..
+[09:12:38] [system] wczytano 6 budynkow
+[09:12:38] [system] wczytywanie biznesow..
+[09:12:38] [system] 19 biznesow wczytano
+[09:12:38] Number of vehicle models: 3
+Console input: restart
+Console input: gmx
+[09:12:42] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:12:42] [system] zaczynam zapisywac systemy..
+[09:12:42] [system] zapisano biznes: index: 1 | idDB: 8
+[09:12:42] [system] zapisano biznes: index: 2 | idDB: 9
+[09:12:42] [system] zapisano biznes: index: 3 | idDB: 10
+[09:12:42] [system] zapisano biznes: index: 4 | idDB: 11
+[09:12:42] [system] zapisano biznes: index: 5 | idDB: 12
+[09:12:42] [system] zapisano biznes: index: 6 | idDB: 13
+[09:12:42] [system] zapisano biznes: index: 7 | idDB: 14
+[09:12:42] [system] zapisano biznes: index: 8 | idDB: 15
+[09:12:42] [system] zapisano biznes: index: 9 | idDB: 16
+[09:12:42] [system] zapisano biznes: index: 10 | idDB: 17
+[09:12:42] [system] zapisano biznes: index: 11 | idDB: 18
+[09:12:42] [system] zapisano biznes: index: 12 | idDB: 19
+[09:12:42] [system] zapisano biznes: index: 13 | idDB: 20
+[09:12:42] [system] zapisano biznes: index: 14 | idDB: 21
+[09:12:42] [system] zapisano biznes: index: 15 | idDB: 22
+[09:12:42] [system] zapisano biznes: index: 16 | idDB: 23
+[09:12:42] [system] zapisano biznes: index: 17 | idDB: 24
+[09:12:42] [system] zapisano biznes: index: 18 | idDB: 25
+[09:12:42] [system] zapisano biznes: index: 19 | idDB: 26
+[09:12:42] [system] zapisano 20 biznesow
+[09:12:42] [system] zapisano pojazd idDB: 1
+[09:12:42] [system] zapisano pojazd idDB: 2
+[09:12:42] [system] zapisano pojazd idDB: 3
+[09:12:42] [system] zapisano pojazd idDB: 4
+[09:12:42] [system] zapisano 5 pojazdow
+[09:12:42] [system] koniec zapisu systemow.
+Console input: start
+[09:12:54] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:12:54] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:12:54] [system] Polaczono!
+[09:12:54] [system] wczytywanie pojazdow..
+[09:12:54] [system] 4 pojazd(ow) wczytanych
+[09:12:54] [System:] Zaczynam wczytywac organizacje....
+[09:12:54] [System] Wczytano 3 organizacji
+[09:12:54] [system] wczytuje budynki..
+[09:12:54] [system] wczytano 6 budynkow
+[09:12:54] [system] wczytywanie biznesow..
+[09:12:54] [system] 19 biznesow wczytano
+[09:12:54] Number of vehicle models: 3
+Console input: restart
+Console input: gmx
+[09:13:01] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:13:01] [system] zaczynam zapisywac systemy..
+[09:13:01] [system] zapisano biznes: index: 1 | idDB: 8
+[09:13:01] [system] zapisano biznes: index: 2 | idDB: 9
+[09:13:01] [system] zapisano biznes: index: 3 | idDB: 10
+[09:13:01] [system] zapisano biznes: index: 4 | idDB: 11
+[09:13:01] [system] zapisano biznes: index: 5 | idDB: 12
+[09:13:01] [system] zapisano biznes: index: 6 | idDB: 13
+[09:13:01] [system] zapisano biznes: index: 7 | idDB: 14
+[09:13:01] [system] zapisano biznes: index: 8 | idDB: 15
+[09:13:01] [system] zapisano biznes: index: 9 | idDB: 16
+[09:13:01] [system] zapisano biznes: index: 10 | idDB: 17
+[09:13:01] [system] zapisano biznes: index: 11 | idDB: 18
+[09:13:01] [system] zapisano biznes: index: 12 | idDB: 19
+[09:13:01] [system] zapisano biznes: index: 13 | idDB: 20
+[09:13:01] [system] zapisano biznes: index: 14 | idDB: 21
+[09:13:01] [system] zapisano biznes: index: 15 | idDB: 22
+[09:13:01] [system] zapisano biznes: index: 16 | idDB: 23
+[09:13:01] [system] zapisano biznes: index: 17 | idDB: 24
+[09:13:01] [system] zapisano biznes: index: 18 | idDB: 25
+[09:13:01] [system] zapisano biznes: index: 19 | idDB: 26
+[09:13:01] [system] zapisano 20 biznesow
+[09:13:01] [system] zapisano pojazd idDB: 1
+[09:13:01] [system] zapisano pojazd idDB: 2
+[09:13:01] [system] zapisano pojazd idDB: 3
+[09:13:01] [system] zapisano pojazd idDB: 4
+[09:13:01] [system] zapisano 5 pojazdow
+[09:13:01] [system] koniec zapisu systemow.
+Console input: start
+[09:13:13] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:13:13] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:13:13] [system] Polaczono!
+[09:13:13] [system] wczytywanie pojazdow..
+[09:13:13] [system] 4 pojazd(ow) wczytanych
+[09:13:13] [System:] Zaczynam wczytywac organizacje....
+[09:13:13] [System] Wczytano 3 organizacji
+[09:13:13] [system] wczytuje budynki..
+[09:13:13] [system] wczytano 6 budynkow
+[09:13:13] [system] wczytywanie biznesow..
+[09:13:13] [system] 19 biznesow wczytano
+[09:13:13] Number of vehicle models: 3
+Console input: gmx
+[09:13:15] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:13:15] [system] zaczynam zapisywac systemy..
+[09:13:15] [system] zapisano biznes: index: 1 | idDB: 8
+[09:13:15] [system] zapisano biznes: index: 2 | idDB: 9
+[09:13:15] [system] zapisano biznes: index: 3 | idDB: 10
+[09:13:15] [system] zapisano biznes: index: 4 | idDB: 11
+[09:13:15] [system] zapisano biznes: index: 5 | idDB: 12
+[09:13:15] [system] zapisano biznes: index: 6 | idDB: 13
+[09:13:15] [system] zapisano biznes: index: 7 | idDB: 14
+[09:13:15] [system] zapisano biznes: index: 8 | idDB: 15
+[09:13:15] [system] zapisano biznes: index: 9 | idDB: 16
+[09:13:16] [system] zapisano biznes: index: 10 | idDB: 17
+[09:13:16] [system] zapisano biznes: index: 11 | idDB: 18
+[09:13:16] [system] zapisano biznes: index: 12 | idDB: 19
+[09:13:16] [system] zapisano biznes: index: 13 | idDB: 20
+[09:13:16] [system] zapisano biznes: index: 14 | idDB: 21
+[09:13:16] [system] zapisano biznes: index: 15 | idDB: 22
+[09:13:16] [system] zapisano biznes: index: 16 | idDB: 23
+[09:13:16] [system] zapisano biznes: index: 17 | idDB: 24
+[09:13:16] [system] zapisano biznes: index: 18 | idDB: 25
+[09:13:16] [system] zapisano biznes: index: 19 | idDB: 26
+[09:13:16] [system] zapisano 20 biznesow
+[09:13:16] [system] zapisano pojazd idDB: 1
+[09:13:16] [system] zapisano pojazd idDB: 2
+[09:13:16] [system] zapisano pojazd idDB: 3
+[09:13:16] [system] zapisano pojazd idDB: 4
+[09:13:16] [system] zapisano 5 pojazdow
+[09:13:16] [system] koniec zapisu systemow.
+[09:13:27] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:13:27] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:13:27] [system] Polaczono!
+[09:13:27] [system] wczytywanie pojazdow..
+[09:13:27] [system] 4 pojazd(ow) wczytanych
+[09:13:27] [System:] Zaczynam wczytywac organizacje....
+[09:13:27] [System] Wczytano 3 organizacji
+[09:13:27] [system] wczytuje budynki..
+[09:13:27] [system] wczytano 6 budynkow
+[09:13:27] [system] wczytywanie biznesow..
+[09:13:27] [system] 19 biznesow wczytano
+[09:13:27] Number of vehicle models: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:13:48] filterscripts = ""  (string)
+[09:13:48] 
+[09:13:48] Server Plugins
+[09:13:48] --------------
+[09:13:48]  Loading plugin: mysql.dll
+[09:13:48] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:13:48]   Loaded.
+[09:13:48]  Loading plugin: streamer.dll
+[09:13:48] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:13:48]   Loaded.
+[09:13:48]  Loading plugin: sscanf.dll
+[09:13:48] 
+
+[09:13:48]  ===============================
+
+[09:13:48]       sscanf plugin loaded.     
+
+[09:13:48]          Version:  2.8.1        
+
+[09:13:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:13:48]  ===============================
+
+[09:13:48]   Loaded.
+[09:13:48]  Loaded 3 plugins.
+
+[09:13:48] 
+[09:13:48] Filterscripts
+[09:13:48] ---------------
+[09:13:48]   Loaded 0 filterscripts.
+
+[09:13:48] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:13:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:13:48] [system] Polaczono!
+[09:13:48] [system] wczytywanie pojazdow..
+[09:13:48] [system] 4 pojazd(ow) wczytanych
+[09:13:48] [System:] Zaczynam wczytywac organizacje....
+[09:13:48] [System] Wczytano 3 organizacji
+[09:13:48] [system] wczytuje budynki..
+[09:13:48] [system] wczytano 6 budynkow
+[09:13:48] [system] wczytywanie biznesow..
+[09:13:48] [system] 19 biznesow wczytano
+[09:13:48] Number of vehicle models: 3
+Console input: gmx
+[09:13:51] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:13:51] [system] zaczynam zapisywac systemy..
+[09:13:52] [system] zapisano 20 biznesow
+[09:13:52] [system] zapisano 5 pojazdow
+[09:13:52] [system] koniec zapisu systemow.
+[09:14:03] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:14:03] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:14:03] [system] Polaczono!
+[09:14:03] [system] wczytywanie pojazdow..
+[09:14:03] [system] 4 pojazd(ow) wczytanych
+[09:14:03] [System:] Zaczynam wczytywac organizacje....
+[09:14:03] [System] Wczytano 3 organizacji
+[09:14:03] [system] wczytuje budynki..
+[09:14:03] [system] wczytano 6 budynkow
+[09:14:03] [system] wczytywanie biznesow..
+[09:14:03] [system] 19 biznesow wczytano
+[09:14:03] Number of vehicle models: 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:14:34] filterscripts = ""  (string)
+[09:14:34] 
+[09:14:34] Server Plugins
+[09:14:34] --------------
+[09:14:34]  Loading plugin: mysql.dll
+[09:14:34] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:14:34]   Loaded.
+[09:14:34]  Loading plugin: streamer.dll
+[09:14:34] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:14:34]   Loaded.
+[09:14:34]  Loading plugin: sscanf.dll
+[09:14:34] 
+
+[09:14:34]  ===============================
+
+[09:14:34]       sscanf plugin loaded.     
+
+[09:14:34]          Version:  2.8.1        
+
+[09:14:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:14:34]  ===============================
+
+[09:14:34]   Loaded.
+[09:14:34]  Loaded 3 plugins.
+
+[09:14:34] 
+[09:14:34] Filterscripts
+[09:14:34] ---------------
+[09:14:34]   Loaded 0 filterscripts.
+
+[09:14:34] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:14:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:14:34] [system] Polaczono!
+[09:14:34] [system] wczytywanie pojazdow..
+[09:14:34] [system] 4 pojazd(ow) wczytanych
+[09:14:34] [System:] Zaczynam wczytywac organizacje....
+[09:14:34] [System] Wczytano 3 organizacji
+[09:14:34] [system] wczytuje budynki..
+[09:14:34] [system] wczytano 6 budynkow
+[09:14:34] [system] wczytywanie biznesow..
+[09:14:34] [system] 19 biznesow wczytano
+[09:14:34] Number of vehicle models: 3
+Console input: exit
+[09:14:35] --- Server Shutting Down.
+[09:14:35] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:14:35] [system] zaczynam zapisywac systemy..
+[09:14:36] [system] zapisano 19 biznesow
+[09:14:36] [system] zapisano 4 pojazdow
+[09:14:36] [system] koniec zapisu systemow.
+[09:14:36] 
+
+  > MySQL plugin unloaded.
+
+[09:14:36] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[09:14:36] 
+
+[09:14:36]  ===============================
+
+[09:14:36]      sscanf plugin unloaded.    
+
+[09:14:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:14:39] filterscripts = ""  (string)
+[09:14:39] 
+[09:14:39] Server Plugins
+[09:14:39] --------------
+[09:14:39]  Loading plugin: mysql.dll
+[09:14:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:14:39]   Loaded.
+[09:14:39]  Loading plugin: streamer.dll
+[09:14:39] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:14:39]   Loaded.
+[09:14:39]  Loading plugin: sscanf.dll
+[09:14:39] 
+
+[09:14:39]  ===============================
+
+[09:14:39]       sscanf plugin loaded.     
+
+[09:14:39]          Version:  2.8.1        
+
+[09:14:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:14:39]  ===============================
+
+[09:14:39]   Loaded.
+[09:14:39]  Loaded 3 plugins.
+
+[09:14:39] 
+[09:14:39] Filterscripts
+[09:14:39] ---------------
+[09:14:39]   Loaded 0 filterscripts.
+
+[09:14:39] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:14:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:14:39] [system] Polaczono!
+[09:14:39] [system] wczytywanie pojazdow..
+[09:14:39] [system] 4 pojazd(ow) wczytanych
+[09:14:39] [System:] Zaczynam wczytywac organizacje....
+[09:14:39] [System] Wczytano 3 organizacji
+[09:14:39] [system] wczytuje budynki..
+[09:14:39] [system] wczytano 6 budynkow
+[09:14:39] [system] wczytywanie biznesow..
+[09:14:39] [system] 19 biznesow wczytano
+[09:14:39] Number of vehicle models: 3
+Console input: gmx
+[09:14:43] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:14:43] [system] zaczynam zapisywac systemy..
+[09:14:43] [system] zapisano 19 biznesow
+[09:14:43] [system] zapisano 4 pojazdow
+[09:14:43] [system] koniec zapisu systemow.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:21:30] filterscripts = ""  (string)
+[09:21:30] 
+[09:21:30] Server Plugins
+[09:21:30] --------------
+[09:21:30]  Loading plugin: mysql.dll
+[09:21:30] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:21:30]   Loaded.
+[09:21:30]  Loading plugin: streamer.dll
+[09:21:30] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:21:30]   Loaded.
+[09:21:30]  Loading plugin: sscanf.dll
+[09:21:30] 
+
+[09:21:30]  ===============================
+
+[09:21:30]       sscanf plugin loaded.     
+
+[09:21:30]          Version:  2.8.1        
+
+[09:21:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:21:30]  ===============================
+
+[09:21:30]   Loaded.
+[09:21:30]  Loaded 3 plugins.
+
+[09:21:30] 
+[09:21:30] Filterscripts
+[09:21:30] ---------------
+[09:21:30]   Loaded 0 filterscripts.
+
+[09:21:30] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:21:30] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:21:31] [system] Polaczono!
+[09:21:31] [system] wczytywanie pojazdow..
+[09:21:31] [system] 4 pojazd(ow) wczytanych
+[09:21:31] [System:] Zaczynam wczytywac organizacje....
+[09:21:31] [System] Wczytano 3 organizacji
+[09:21:31] [system] wczytuje budynki..
+[09:21:31] [system] wczytano 6 budynkow
+[09:21:31] [system] wczytywanie biznesow..
+[09:21:31] [system] 19 biznesow wczytano
+[09:21:31] Number of vehicle models: 3
+Console input: gmx
+[09:21:33] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:21:33] [system] zaczynam zapisywac systemy..
+[09:21:34] [system] zapisano 19 biznesow
+[09:21:34] [system] zapisano 4 pojazdow
+[09:21:34] [system] zapisano 0 organizacji
+[09:21:34] [system] koniec zapisu systemow.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:22:40] filterscripts = ""  (string)
+[09:22:40] 
+[09:22:40] Server Plugins
+[09:22:40] --------------
+[09:22:40]  Loading plugin: mysql.dll
+[09:22:40] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:22:40]   Loaded.
+[09:22:40]  Loading plugin: streamer.dll
+[09:22:40] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:22:40]   Loaded.
+[09:22:40]  Loading plugin: sscanf.dll
+[09:22:40] 
+
+[09:22:40]  ===============================
+
+[09:22:40]       sscanf plugin loaded.     
+
+[09:22:40]          Version:  2.8.1        
+
+[09:22:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:22:40]  ===============================
+
+[09:22:40]   Loaded.
+[09:22:40]  Loaded 3 plugins.
+
+[09:22:40] 
+[09:22:40] Filterscripts
+[09:22:40] ---------------
+[09:22:40]   Loaded 0 filterscripts.
+
+[09:22:40] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:22:40] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:22:40] [system] Polaczono!
+[09:22:40] [system] wczytywanie pojazdow..
+[09:22:40] [system] 4 pojazd(ow) wczytanych
+[09:22:40] [System:] Zaczynam wczytywac organizacje....
+[09:22:40] [System] Wczytano 3 organizacji
+[09:22:40] [system] wczytuje budynki..
+[09:22:40] [system] wczytano 6 budynkow
+[09:22:40] [system] wczytywanie biznesow..
+[09:22:40] [system] 19 biznesow wczytano
+[09:22:40] Number of vehicle models: 3
+Console input: gmx
+[09:22:43] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:22:43] [system] zaczynam zapisywac systemy..
+[09:22:43] [system] zapisano 19 biznesow
+[09:22:43] [system] zapisano 4 pojazdow
+[09:22:44] [system] zapisano 6 budynkow
+[09:22:44] [system] koniec zapisu systemow.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:47:33] filterscripts = ""  (string)
+[09:47:33] 
+[09:47:33] Server Plugins
+[09:47:33] --------------
+[09:47:33]  Loading plugin: mysql.dll
+[09:47:33] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:47:33]   Loaded.
+[09:47:33]  Loading plugin: streamer.dll
+[09:47:33] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:47:33]   Loaded.
+[09:47:33]  Loading plugin: sscanf.dll
+[09:47:33] 
+
+[09:47:33]  ===============================
+
+[09:47:33]       sscanf plugin loaded.     
+
+[09:47:33]          Version:  2.8.1        
+
+[09:47:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:47:33]  ===============================
+
+[09:47:33]   Loaded.
+[09:47:33]  Loaded 3 plugins.
+
+[09:47:33] 
+[09:47:33] Filterscripts
+[09:47:33] ---------------
+[09:47:33]   Loaded 0 filterscripts.
+
+[09:47:33] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:47:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:47:33] [system] Polaczono!
+[09:47:33] [system] wczytywanie pojazdow..
+[09:47:33] [system] 4 pojazd(ow) wczytanych
+[09:47:33] [System:] Zaczynam wczytywac organizacje....
+[09:47:33] [System] Wczytano 3 organizacji
+[09:47:33] [system] wczytuje budynki..
+[09:47:33] [system] wczytano 6 budynkow
+[09:47:33] [system] wczytywanie biznesow..
+[09:47:33] [system] 19 biznesow wczytano
+[09:47:33] Number of vehicle models: 3
+[09:47:59] [connection] 127.0.0.1:58618 requests connection cookie.
+[09:48:00] Incoming connection: 127.0.0.1:58618 id: 0
+[09:48:00] [join] Thorus has joined the server (0:127.0.0.1)
+[09:49:12] [part] Thorus has left the server (0:1)
+Console input: exit
+[09:49:17] --- Server Shutting Down.
+[09:49:17] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[09:49:17] [system] zaczynam zapisywac systemy..
+[09:49:18] [system] zapisano 19 biznesow
+[09:49:18] [system] zapisano 4 pojazdow
+[09:49:18] [system] zapisano 6 budynkow
+[09:49:18] [system] koniec zapisu systemow.
+[09:49:18] 
+
+  > MySQL plugin unloaded.
+
+[09:49:18] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[09:49:18] 
+
+[09:49:18]  ===============================
+
+[09:49:18]      sscanf plugin unloaded.    
+
+[09:49:18]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:49:20] filterscripts = ""  (string)
+[09:49:20] 
+[09:49:20] Server Plugins
+[09:49:20] --------------
+[09:49:20]  Loading plugin: mysql.dll
+[09:49:20] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[09:49:20]   Loaded.
+[09:49:20]  Loading plugin: streamer.dll
+[09:49:20] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[09:49:20]   Loaded.
+[09:49:20]  Loading plugin: sscanf.dll
+[09:49:20] 
+
+[09:49:20]  ===============================
+
+[09:49:20]       sscanf plugin loaded.     
+
+[09:49:20]          Version:  2.8.1        
+
+[09:49:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:49:20]  ===============================
+
+[09:49:20]   Loaded.
+[09:49:20]  Loaded 3 plugins.
+
+[09:49:20] 
+[09:49:20] Filterscripts
+[09:49:20] ---------------
+[09:49:20]   Loaded 0 filterscripts.
+
+[09:49:20] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[09:49:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:49:20] [system] Polaczono!
+[09:49:20] [system] wczytywanie pojazdow..
+[09:49:20] [system] 4 pojazd(ow) wczytanych
+[09:49:20] [System:] Zaczynam wczytywac organizacje....
+[09:49:20] [System] Wczytano 3 organizacji
+[09:49:20] [system] wczytuje budynki..
+[09:49:20] [system] wczytano 6 budynkow
+[09:49:20] [system] wczytywanie biznesow..
+[09:49:20] [system] 19 biznesow wczytano
+[09:49:20] Number of vehicle models: 3
+[09:49:47] [connection] 127.0.0.1:51511 requests connection cookie.
+[09:49:48] Incoming connection: 127.0.0.1:51511 id: 0
+[09:49:48] [join] Thorus has joined the server (0:127.0.0.1)
+[09:50:22] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:22:39] filterscripts = ""  (string)
+[10:22:39] 
+[10:22:39] Server Plugins
+[10:22:39] --------------
+[10:22:39]  Loading plugin: mysql.dll
+[10:22:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[10:22:39]   Loaded.
+[10:22:39]  Loading plugin: streamer.dll
+[10:22:39] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[10:22:39]   Loaded.
+[10:22:39]  Loading plugin: sscanf.dll
+[10:22:39] 
+
+[10:22:39]  ===============================
+
+[10:22:39]       sscanf plugin loaded.     
+
+[10:22:39]          Version:  2.8.1        
+
+[10:22:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:22:39]  ===============================
+
+[10:22:39]   Loaded.
+[10:22:39]  Loaded 3 plugins.
+
+[10:22:39] 
+[10:22:39] Filterscripts
+[10:22:39] ---------------
+[10:22:39]   Loaded 0 filterscripts.
+
+[10:22:39] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[10:22:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:22:40] [system] Polaczono!
+[10:22:40] [system] wczytywanie pojazdow..
+[10:22:40] [system] 4 pojazd(ow) wczytanych
+[10:22:40] [System:] Zaczynam wczytywac organizacje....
+[10:22:40] [System] Wczytano 3 organizacji
+[10:22:40] [system] wczytuje budynki..
+[10:22:40] [system] wczytano 6 budynkow
+[10:22:40] [system] wczytywanie biznesow..
+[10:22:40] [system] 19 biznesow wczytano
+[10:22:40] Number of vehicle models: 3
+[10:23:03] [connection] 127.0.0.1:57533 requests connection cookie.
+[10:23:04] Incoming connection: 127.0.0.1:57533 id: 0
+[10:23:05] [join] Thorus has joined the server (0:127.0.0.1)
+[10:28:41] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:34:21] filterscripts = ""  (string)
+[10:34:21] 
+[10:34:21] Server Plugins
+[10:34:21] --------------
+[10:34:21]  Loading plugin: mysql.dll
+[10:34:21] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[10:34:21]   Loaded.
+[10:34:21]  Loading plugin: streamer.dll
+[10:34:21] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[10:34:21]   Loaded.
+[10:34:21]  Loading plugin: sscanf.dll
+[10:34:21] 
+
+[10:34:21]  ===============================
+
+[10:34:21]       sscanf plugin loaded.     
+
+[10:34:21]          Version:  2.8.1        
+
+[10:34:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:34:21]  ===============================
+
+[10:34:21]   Loaded.
+[10:34:21]  Loaded 3 plugins.
+
+[10:34:21] 
+[10:34:21] Filterscripts
+[10:34:21] ---------------
+[10:34:21]   Loaded 0 filterscripts.
+
+[10:34:21] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[10:34:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:34:21] [system] Polaczono!
+[10:34:21] [system] wczytywanie pojazdow..
+[10:34:21] [system] 4 pojazd(ow) wczytanych
+[10:34:21] [System:] Zaczynam wczytywac organizacje....
+[10:34:21] [System] Wczytano 3 organizacji
+[10:34:21] [system] wczytuje budynki..
+[10:34:21] [system] wczytano 6 budynkow
+[10:34:21] [system] wczytywanie biznesow..
+[10:34:21] [system] 19 biznesow wczytano
+[10:34:21] Number of vehicle models: 3
+[10:34:41] [connection] 127.0.0.1:49275 requests connection cookie.
+[10:34:42] Incoming connection: 127.0.0.1:49275 id: 0
+[10:34:42] [join] Thorus has joined the server (0:127.0.0.1)
+[10:36:01] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:36:49] filterscripts = ""  (string)
+[10:36:49] 
+[10:36:49] Server Plugins
+[10:36:49] --------------
+[10:36:49]  Loading plugin: mysql.dll
+[10:36:49] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[10:36:49]   Loaded.
+[10:36:49]  Loading plugin: streamer.dll
+[10:36:49] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[10:36:49]   Loaded.
+[10:36:49]  Loading plugin: sscanf.dll
+[10:36:49] 
+
+[10:36:49]  ===============================
+
+[10:36:49]       sscanf plugin loaded.     
+
+[10:36:49]          Version:  2.8.1        
+
+[10:36:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:36:49]  ===============================
+
+[10:36:49]   Loaded.
+[10:36:49]  Loaded 3 plugins.
+
+[10:36:49] 
+[10:36:49] Filterscripts
+[10:36:49] ---------------
+[10:36:49]   Loaded 0 filterscripts.
+
+[10:36:49] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[10:36:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:36:49] [system] Polaczono!
+[10:36:49] [system] wczytywanie pojazdow..
+[10:36:49] [system] 4 pojazd(ow) wczytanych
+[10:36:49] [System:] Zaczynam wczytywac organizacje....
+[10:36:49] [System] Wczytano 3 organizacji
+[10:36:49] [system] wczytuje budynki..
+[10:36:49] [system] wczytano 6 budynkow
+[10:36:49] [system] wczytywanie biznesow..
+[10:36:49] [system] 19 biznesow wczytano
+[10:36:49] Number of vehicle models: 3
+[10:37:09] [connection] 127.0.0.1:62752 requests connection cookie.
+[10:37:10] Incoming connection: 127.0.0.1:62752 id: 0
+[10:37:10] [join] Thorus has joined the server (0:127.0.0.1)
+[10:38:02] [part] Thorus has left the server (0:1)
+Console input: gmx
+[10:38:06] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[10:38:06] [system] zaczynam zapisywac systemy..
+[10:38:07] [system] zapisano 19 biznesow
+[10:38:07] [system] zapisano 4 pojazdow
+[10:38:07] [system] zapisano 6 budynkow
+[10:38:07] [system] koniec zapisu systemow.
+[10:38:18] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[10:38:18] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:38:18] [system] Polaczono!
+[10:38:18] [system] wczytywanie pojazdow..
+[10:38:18] [system] 4 pojazd(ow) wczytanych
+[10:38:18] [System:] Zaczynam wczytywac organizacje....
+[10:38:18] [System] Wczytano 3 organizacji
+[10:38:18] [system] wczytuje budynki..
+[10:38:18] [system] wczytano 6 budynkow
+[10:38:18] [system] wczytywanie biznesow..
+[10:38:18] [system] 19 biznesow wczytano
+[10:38:18] Number of vehicle models: 3
+[10:38:39] [connection] 127.0.0.1:62753 requests connection cookie.
+[10:38:40] Incoming connection: 127.0.0.1:62753 id: 0
+[10:38:40] [join] Thorus has joined the server (0:127.0.0.1)
+[10:39:02] [part] Thorus has left the server (0:1)
+Console input: exit
+[10:39:06] --- Server Shutting Down.
+[10:39:06] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[10:39:06] [system] zaczynam zapisywac systemy..
+[10:39:07] [system] zapisano 19 biznesow
+[10:39:07] [system] zapisano 4 pojazdow
+[10:39:07] [system] zapisano 6 budynkow
+[10:39:07] [system] koniec zapisu systemow.
+[10:39:07] 
+
+  > MySQL plugin unloaded.
+
+[10:39:07] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[10:39:07] 
+
+[10:39:07]  ===============================
+
+[10:39:07]      sscanf plugin unloaded.    
+
+[10:39:07]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:40:41] filterscripts = ""  (string)
+[10:40:41] 
+[10:40:41] Server Plugins
+[10:40:41] --------------
+[10:40:41]  Loading plugin: mysql.dll
+[10:40:41] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[10:40:41]   Loaded.
+[10:40:41]  Loading plugin: streamer.dll
+[10:40:41] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[10:40:41]   Loaded.
+[10:40:41]  Loading plugin: sscanf.dll
+[10:40:41] 
+
+[10:40:41]  ===============================
+
+[10:40:41]       sscanf plugin loaded.     
+
+[10:40:41]          Version:  2.8.1        
+
+[10:40:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:40:41]  ===============================
+
+[10:40:41]   Loaded.
+[10:40:41]  Loaded 3 plugins.
+
+[10:40:42] 
+[10:40:42] Filterscripts
+[10:40:42] ---------------
+[10:40:42]   Loaded 0 filterscripts.
+
+[10:40:42] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[10:40:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:40:42] [system] Polaczono!
+[10:40:42] [system] wczytywanie pojazdow..
+[10:40:42] [system] 4 pojazd(ow) wczytanych
+[10:40:42] [System:] Zaczynam wczytywac organizacje....
+[10:40:42] [System] Wczytano 3 organizacji
+[10:40:42] [system] wczytuje budynki..
+[10:40:42] [system] wczytano 6 budynkow
+[10:40:42] [system] wczytywanie biznesow..
+[10:40:42] [system] 19 biznesow wczytano
+[10:40:42] Number of vehicle models: 3
+[10:41:01] [connection] 127.0.0.1:59008 requests connection cookie.
+[10:41:02] Incoming connection: 127.0.0.1:59008 id: 0
+[10:41:03] [join] Thorus has joined the server (0:127.0.0.1)
+[10:42:18] [part] Thorus has left the server (0:1)
+[10:42:22] --- Server Shutting Down.
+[10:42:22] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[10:42:22] [system] zaczynam zapisywac systemy..
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:08:15] filterscripts = ""  (string)
+[11:08:15] 
+[11:08:15] Server Plugins
+[11:08:15] --------------
+[11:08:15]  Loading plugin: mysql.dll
+[11:08:15] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:08:15]   Loaded.
+[11:08:15]  Loading plugin: streamer.dll
+[11:08:15] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:08:15]   Loaded.
+[11:08:15]  Loading plugin: sscanf.dll
+[11:08:15] 
+
+[11:08:15]  ===============================
+
+[11:08:15]       sscanf plugin loaded.     
+
+[11:08:15]          Version:  2.8.1        
+
+[11:08:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:08:15]  ===============================
+
+[11:08:15]   Loaded.
+[11:08:15]  Loaded 3 plugins.
+
+[11:08:15] 
+[11:08:15] Filterscripts
+[11:08:15] ---------------
+[11:08:15]   Loaded 0 filterscripts.
+
+[11:08:15] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:08:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:08:15] [system] Polaczono!
+[11:08:15] [system] wczytywanie pojazdow..
+[11:08:15] [system] 4 pojazd(ow) wczytanych
+[11:08:15] [System:] Zaczynam wczytywac organizacje....
+[11:08:15] [System] Wczytano 3 organizacji
+[11:08:15] [system] wczytuje budynki..
+[11:08:15] [system] wczytano 6 budynkow
+[11:08:15] [system] wczytywanie biznesow..
+[11:08:15] [system] 19 biznesow wczytano
+[11:08:15] Number of vehicle models: 3
+[11:08:38] [connection] 127.0.0.1:63399 requests connection cookie.
+[11:08:39] Incoming connection: 127.0.0.1:63399 id: 0
+[11:08:40] [join] Thorus has joined the server (0:127.0.0.1)
+[11:09:52] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:11:05] filterscripts = ""  (string)
+[11:11:05] 
+[11:11:05] Server Plugins
+[11:11:05] --------------
+[11:11:05]  Loading plugin: mysql.dll
+[11:11:05] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:11:05]   Loaded.
+[11:11:05]  Loading plugin: streamer.dll
+[11:11:05] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:11:05]   Loaded.
+[11:11:05]  Loading plugin: sscanf.dll
+[11:11:05] 
+
+[11:11:05]  ===============================
+
+[11:11:05]       sscanf plugin loaded.     
+
+[11:11:05]          Version:  2.8.1        
+
+[11:11:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:11:05]  ===============================
+
+[11:11:05]   Loaded.
+[11:11:05]  Loaded 3 plugins.
+
+[11:11:05] 
+[11:11:05] Filterscripts
+[11:11:05] ---------------
+[11:11:05]   Loaded 0 filterscripts.
+
+[11:11:05] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:11:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:11:05] [system] Polaczono!
+[11:11:05] [system] wczytywanie pojazdow..
+[11:11:05] [system] 4 pojazd(ow) wczytanych
+[11:11:05] [System:] Zaczynam wczytywac organizacje....
+[11:11:05] [System] Wczytano 3 organizacji
+[11:11:05] [system] wczytuje budynki..
+[11:11:05] [system] wczytano 6 budynkow
+[11:11:05] [system] wczytywanie biznesow..
+[11:11:05] [system] 19 biznesow wczytano
+[11:11:05] Number of vehicle models: 3
+Console input: exit
+[11:11:09] --- Server Shutting Down.
+[11:11:09] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[11:11:09] [system] zaczynam zapisywac systemy..
+[11:11:10] [system] zapisano 19 biznesow
+[11:11:10] [system] zapisano 4 pojazdow
+[11:11:10] [system] zapisano 6 budynkow
+[11:11:10] [system] koniec zapisu systemow.
+[11:11:10] 
+
+  > MySQL plugin unloaded.
+
+[11:11:10] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[11:11:10] 
+
+[11:11:10]  ===============================
+
+[11:11:10]      sscanf plugin unloaded.    
+
+[11:11:10]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:11:11] filterscripts = ""  (string)
+[11:11:11] 
+[11:11:11] Server Plugins
+[11:11:11] --------------
+[11:11:11]  Loading plugin: mysql.dll
+[11:11:11] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:11:11]   Loaded.
+[11:11:11]  Loading plugin: streamer.dll
+[11:11:11] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:11:11]   Loaded.
+[11:11:11]  Loading plugin: sscanf.dll
+[11:11:11] 
+
+[11:11:11]  ===============================
+
+[11:11:11]       sscanf plugin loaded.     
+
+[11:11:11]          Version:  2.8.1        
+
+[11:11:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:11:11]  ===============================
+
+[11:11:11]   Loaded.
+[11:11:11]  Loaded 3 plugins.
+
+[11:11:11] 
+[11:11:11] Filterscripts
+[11:11:11] ---------------
+[11:11:11]   Loaded 0 filterscripts.
+
+[11:11:11] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:11:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:11:11] [system] Polaczono!
+[11:11:11] [system] wczytywanie pojazdow..
+[11:11:11] [system] 4 pojazd(ow) wczytanych
+[11:11:11] [System:] Zaczynam wczytywac organizacje....
+[11:11:11] [System] Wczytano 3 organizacji
+[11:11:11] [system] wczytuje budynki..
+[11:11:11] [system] wczytano 6 budynkow
+[11:11:11] [system] wczytywanie biznesow..
+[11:11:11] [system] 19 biznesow wczytano
+[11:11:11] Number of vehicle models: 3
+[11:11:31] [connection] 127.0.0.1:58916 requests connection cookie.
+[11:11:32] Incoming connection: 127.0.0.1:58916 id: 0
+[11:11:32] [join] Thorus has joined the server (0:127.0.0.1)
+[11:12:11] [part] Thorus has left the server (0:1)
+Console input: exit
+[11:12:15] --- Server Shutting Down.
+[11:12:15] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[11:12:15] [system] zaczynam zapisywac systemy..
+[11:12:16] [system] zapisano 19 biznesow
+[11:12:16] [system] zapisano 4 pojazdow
+[11:12:16] [system] zapisano 6 budynkow
+[11:12:16] [system] koniec zapisu systemow.
+[11:12:16] 
+
+  > MySQL plugin unloaded.
+
+[11:12:16] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[11:12:16] 
+
+[11:12:16]  ===============================
+
+[11:12:16]      sscanf plugin unloaded.    
+
+[11:12:16]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:27:43] filterscripts = ""  (string)
+[11:27:43] 
+[11:27:43] Server Plugins
+[11:27:43] --------------
+[11:27:43]  Loading plugin: mysql.dll
+[11:27:43] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:27:43]   Loaded.
+[11:27:43]  Loading plugin: streamer.dll
+[11:27:43] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:27:43]   Loaded.
+[11:27:43]  Loading plugin: sscanf.dll
+[11:27:43] 
+
+[11:27:43]  ===============================
+
+[11:27:43]       sscanf plugin loaded.     
+
+[11:27:43]          Version:  2.8.1        
+
+[11:27:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:27:43]  ===============================
+
+[11:27:43]   Loaded.
+[11:27:43]  Loaded 3 plugins.
+
+[11:27:43] 
+[11:27:43] Filterscripts
+[11:27:43] ---------------
+[11:27:43]   Loaded 0 filterscripts.
+
+[11:27:43] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:27:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:27:43] [system] Polaczono!
+[11:27:43] [system] wczytywanie pojazdow..
+[11:27:43] [system] 4 pojazd(ow) wczytanych
+[11:27:43] [System:] Zaczynam wczytywac organizacje....
+[11:27:43] [System] Wczytano 3 organizacji
+[11:27:43] [system] wczytuje budynki..
+[11:27:43] [system] wczytano 6 budynkow
+[11:27:43] [system] wczytywanie biznesow..
+[11:27:43] [system] 19 biznesow wczytano
+[11:27:43] Number of vehicle models: 3
+[11:28:05] [connection] 127.0.0.1:65366 requests connection cookie.
+[11:28:06] Incoming connection: 127.0.0.1:65366 id: 0
+[11:28:07] [join] Thorus has joined the server (0:127.0.0.1)
+[11:29:03] [part] Thorus has left the server (0:1)
+Console input: exit
+[11:29:08] --- Server Shutting Down.
+[11:29:08] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[11:29:08] [system] zaczynam zapisywac systemy..
+[11:29:08] [system] zapisano 19 biznesow
+[11:29:08] [system] zapisano 4 pojazdow
+[11:29:08] [system] zapisano 6 budynkow
+[11:29:08] [system] koniec zapisu systemow.
+[11:29:08] 
+
+  > MySQL plugin unloaded.
+
+[11:29:08] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[11:29:08] 
+
+[11:29:08]  ===============================
+
+[11:29:08]      sscanf plugin unloaded.    
+
+[11:29:08]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:29:39] filterscripts = ""  (string)
+[11:29:39] 
+[11:29:39] Server Plugins
+[11:29:39] --------------
+[11:29:39]  Loading plugin: mysql.dll
+[11:29:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:29:39]   Loaded.
+[11:29:39]  Loading plugin: streamer.dll
+[11:29:39] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:29:39]   Loaded.
+[11:29:39]  Loading plugin: sscanf.dll
+[11:29:39] 
+
+[11:29:39]  ===============================
+
+[11:29:39]       sscanf plugin loaded.     
+
+[11:29:39]          Version:  2.8.1        
+
+[11:29:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:29:39]  ===============================
+
+[11:29:39]   Loaded.
+[11:29:39]  Loaded 3 plugins.
+
+[11:29:39] 
+[11:29:39] Filterscripts
+[11:29:39] ---------------
+[11:29:39]   Loaded 0 filterscripts.
+
+[11:29:39] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:29:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:29:39] [system] Polaczono!
+[11:29:39] [system] wczytywanie pojazdow..
+[11:29:39] [system] 4 pojazd(ow) wczytanych
+[11:29:39] [System:] Zaczynam wczytywac organizacje....
+[11:29:39] [System] Wczytano 3 organizacji
+[11:29:39] [system] wczytuje budynki..
+[11:29:39] [system] wczytano 6 budynkow
+[11:29:39] [system] wczytywanie biznesow..
+[11:29:39] [system] 19 biznesow wczytano
+[11:29:39] Number of vehicle models: 3
+[11:30:00] [connection] 127.0.0.1:65367 requests connection cookie.
+[11:30:01] Incoming connection: 127.0.0.1:65367 id: 0
+[11:30:01] [join] Thorus has joined the server (0:127.0.0.1)
+[11:30:24] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:30:49] filterscripts = ""  (string)
+[11:30:49] 
+[11:30:49] Server Plugins
+[11:30:49] --------------
+[11:30:49]  Loading plugin: mysql.dll
+[11:30:49] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:30:49]   Loaded.
+[11:30:49]  Loading plugin: streamer.dll
+[11:30:49] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:30:49]   Loaded.
+[11:30:49]  Loading plugin: sscanf.dll
+[11:30:49] 
+
+[11:30:49]  ===============================
+
+[11:30:49]       sscanf plugin loaded.     
+
+[11:30:49]          Version:  2.8.1        
+
+[11:30:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:30:49]  ===============================
+
+[11:30:49]   Loaded.
+[11:30:49]  Loaded 3 plugins.
+
+[11:30:49] 
+[11:30:49] Filterscripts
+[11:30:49] ---------------
+[11:30:49]   Loaded 0 filterscripts.
+
+[11:30:49] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:30:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:30:49] [system] Polaczono!
+[11:30:49] [system] wczytywanie pojazdow..
+[11:30:49] [system] 4 pojazd(ow) wczytanych
+[11:30:49] [System:] Zaczynam wczytywac organizacje....
+[11:30:49] [System] Wczytano 3 organizacji
+[11:30:49] [system] wczytuje budynki..
+[11:30:49] [system] wczytano 6 budynkow
+[11:30:49] [system] wczytywanie biznesow..
+[11:30:49] [system] 19 biznesow wczytano
+[11:30:49] Number of vehicle models: 3
+[11:31:10] [connection] 127.0.0.1:65368 requests connection cookie.
+[11:31:11] Incoming connection: 127.0.0.1:65368 id: 0
+[11:31:11] [join] Thorus has joined the server (0:127.0.0.1)
+[11:32:48] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:50:47] filterscripts = ""  (string)
+[11:50:47] 
+[11:50:47] Server Plugins
+[11:50:47] --------------
+[11:50:47]  Loading plugin: mysql.dll
+[11:50:47] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:50:47]   Loaded.
+[11:50:47]  Loading plugin: streamer.dll
+[11:50:47] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:50:47]   Loaded.
+[11:50:47]  Loading plugin: sscanf.dll
+[11:50:47] 
+
+[11:50:47]  ===============================
+
+[11:50:47]       sscanf plugin loaded.     
+
+[11:50:47]          Version:  2.8.1        
+
+[11:50:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:50:47]  ===============================
+
+[11:50:47]   Loaded.
+[11:50:47]  Loaded 3 plugins.
+
+[11:50:47] 
+[11:50:47] Filterscripts
+[11:50:47] ---------------
+[11:50:47]   Loaded 0 filterscripts.
+
+[11:50:47] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:50:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:50:47] [system] Polaczono!
+[11:50:47] [system] wczytywanie pojazdow..
+[11:50:47] [system] 4 pojazd(ow) wczytanych
+[11:50:47] [System:] Zaczynam wczytywac organizacje....
+[11:50:47] [System] Wczytano 3 organizacji
+[11:50:47] [system] wczytuje budynki..
+[11:50:47] [system] wczytano 6 budynkow
+[11:50:47] [system] wczytywanie biznesow..
+[11:50:47] [system] 19 biznesow wczytano
+[11:50:47] Number of vehicle models: 3
+[11:51:07] [connection] 127.0.0.1:59948 requests connection cookie.
+[11:51:08] Incoming connection: 127.0.0.1:59948 id: 0
+[11:51:08] [join] Thorus has joined the server (0:127.0.0.1)
+[11:51:52] [part] Thorus has left the server (0:1)
+Console input: exit
+[11:51:57] --- Server Shutting Down.
+[11:51:57] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[11:51:57] [system] zaczynam zapisywac systemy..
+[11:51:57] [system] zapisano 19 biznesow
+[11:51:57] [system] zapisano 4 pojazdow
+[11:51:58] [system] zapisano 6 budynkow
+[11:51:58] [system] koniec zapisu systemow.
+[11:51:58] 
+
+  > MySQL plugin unloaded.
+
+[11:51:58] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[11:51:58] 
+
+[11:51:58]  ===============================
+
+[11:51:58]      sscanf plugin unloaded.    
+
+[11:51:58]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:52:09] filterscripts = ""  (string)
+[11:52:09] 
+[11:52:09] Server Plugins
+[11:52:09] --------------
+[11:52:09]  Loading plugin: mysql.dll
+[11:52:09] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:52:09]   Loaded.
+[11:52:09]  Loading plugin: streamer.dll
+[11:52:09] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:52:09]   Loaded.
+[11:52:09]  Loading plugin: sscanf.dll
+[11:52:09] 
+
+[11:52:09]  ===============================
+
+[11:52:09]       sscanf plugin loaded.     
+
+[11:52:09]          Version:  2.8.1        
+
+[11:52:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:52:09]  ===============================
+
+[11:52:09]   Loaded.
+[11:52:09]  Loaded 3 plugins.
+
+[11:52:09] 
+[11:52:09] Filterscripts
+[11:52:09] ---------------
+[11:52:09]   Loaded 0 filterscripts.
+
+[11:52:09] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:52:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:52:09] [system] Polaczono!
+[11:52:09] [system] wczytywanie pojazdow..
+[11:52:09] [system] 4 pojazd(ow) wczytanych
+[11:52:09] [System:] Zaczynam wczytywac organizacje....
+[11:52:09] [System] Wczytano 3 organizacji
+[11:52:09] [system] wczytuje budynki..
+[11:52:09] [system] wczytano 6 budynkow
+[11:52:09] [system] wczytywanie biznesow..
+[11:52:09] [system] 19 biznesow wczytano
+[11:52:09] Number of vehicle models: 3
+[11:52:33] [connection] 127.0.0.1:59957 requests connection cookie.
+[11:52:34] Incoming connection: 127.0.0.1:59957 id: 0
+[11:52:34] [join] Thorus has joined the server (0:127.0.0.1)
+[11:53:27] [part] Thorus has left the server (0:1)
+Console input: exit
+[11:53:31] --- Server Shutting Down.
+[11:53:31] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[11:53:31] [system] zaczynam zapisywac systemy..
+[11:53:31] [system] zapisano 19 biznesow
+[11:53:31] [system] zapisano 4 pojazdow
+[11:53:32] [system] zapisano 6 budynkow
+[11:53:32] [system] koniec zapisu systemow.
+[11:53:32] 
+
+  > MySQL plugin unloaded.
+
+[11:53:32] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[11:53:32] 
+
+[11:53:32]  ===============================
+
+[11:53:32]      sscanf plugin unloaded.    
+
+[11:53:32]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:54:58] filterscripts = ""  (string)
+[11:54:58] 
+[11:54:58] Server Plugins
+[11:54:58] --------------
+[11:54:58]  Loading plugin: mysql.dll
+[11:54:58] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[11:54:58]   Loaded.
+[11:54:58]  Loading plugin: streamer.dll
+[11:54:58] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[11:54:58]   Loaded.
+[11:54:58]  Loading plugin: sscanf.dll
+[11:54:58] 
+
+[11:54:58]  ===============================
+
+[11:54:58]       sscanf plugin loaded.     
+
+[11:54:58]          Version:  2.8.1        
+
+[11:54:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:54:58]  ===============================
+
+[11:54:58]   Loaded.
+[11:54:58]  Loaded 3 plugins.
+
+[11:54:58] 
+[11:54:58] Filterscripts
+[11:54:58] ---------------
+[11:54:58]   Loaded 0 filterscripts.
+
+[11:54:58] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[11:54:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:54:58] [system] Polaczono!
+[11:54:58] [system] wczytywanie pojazdow..
+[11:54:58] [system] 4 pojazd(ow) wczytanych
+[11:54:58] [System:] Zaczynam wczytywac organizacje....
+[11:54:58] [System] Wczytano 3 organizacji
+[11:54:58] [system] wczytuje budynki..
+[11:54:58] [system] wczytano 6 budynkow
+[11:54:58] [system] wczytywanie biznesow..
+[11:54:58] [system] 19 biznesow wczytano
+[11:54:58] Number of vehicle models: 3
+[11:55:18] [connection] 127.0.0.1:58820 requests connection cookie.
+[11:55:19] Incoming connection: 127.0.0.1:58820 id: 0
+[11:55:20] [join] Thorus has joined the server (0:127.0.0.1)
+[11:55:56] [part] Thorus has left the server (0:1)
+Console input: exit
+[11:56:00] --- Server Shutting Down.
+[11:56:00] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[11:56:00] [system] zaczynam zapisywac systemy..
+[11:56:01] [system] zapisano 19 biznesow
+[11:56:01] [system] zapisano 4 pojazdow
+[11:56:01] [system] zapisano 6 budynkow
+[11:56:01] [system] koniec zapisu systemow.
+[11:56:01] 
+
+  > MySQL plugin unloaded.
+
+[11:56:01] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+[11:56:01] 
+
+[11:56:01]  ===============================
+
+[11:56:01]      sscanf plugin unloaded.    
+
+[11:56:01]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[17:02:48] filterscripts = ""  (string)
+[17:02:48] 
+[17:02:48] Server Plugins
+[17:02:48] --------------
+[17:02:48]  Loading plugin: mysql.dll
+[17:02:48] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:02:48]   Loaded.
+[17:02:48]  Loading plugin: streamer.dll
+[17:02:48] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[17:02:48]   Loaded.
+[17:02:48]  Loading plugin: sscanf.dll
+[17:02:48] 
+
+[17:02:48]  ===============================
+
+[17:02:48]       sscanf plugin loaded.     
+
+[17:02:48]          Version:  2.8.1        
+
+[17:02:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:02:48]  ===============================
+
+[17:02:48]   Loaded.
+[17:02:48]  Loaded 3 plugins.
+
+[17:02:48] 
+[17:02:48] Filterscripts
+[17:02:48] ---------------
+[17:02:48]   Loaded 0 filterscripts.
+
+[17:02:48] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[17:02:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:02:48] [system] Polaczono!
+[17:02:48] [system] wczytywanie pojazdow..
+[17:02:48] [system] 4 pojazd(ow) wczytanych
+[17:02:48] [System:] Zaczynam wczytywac organizacje....
+[17:02:48] [System] Wczytano 3 organizacji
+[17:02:48] [system] wczytuje budynki..
+[17:02:48] [system] wczytano 6 budynkow
+[17:02:48] [system] wczytywanie biznesow..
+[17:02:48] [system] 19 biznesow wczytano
+[17:02:49] Number of vehicle models: 3
+[17:03:20] [connection] 127.0.0.1:52250 requests connection cookie.
+[17:03:21] Incoming connection: 127.0.0.1:52250 id: 0
+[17:03:22] [join] Thorus has joined the server (0:127.0.0.1)
+[17:05:08] [part] Thorus has left the server (0:1)
+Console input: exit
+[17:05:14] --- Server Shutting Down.
+[17:05:14] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[17:05:14] [system] zaczynam zapisywac systemy..
+[17:05:15] [system] zapisano 19 biznesow
+[17:05:15] [system] zapisano 4 pojazdow
+[17:05:15] [system] zapisano 6 budynkow
+[17:05:15] [system] koniec zapisu systemow.
+[17:05:15] 
+
+  > MySQL plugin unloaded.
+
+[17:05:15] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[22:32:41] filterscripts = ""  (string)
+[22:32:41] 
+[22:32:41] Server Plugins
+[22:32:41] --------------
+[22:32:41]  Loading plugin: mysql.dll
+[22:32:41] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[22:32:41]   Loaded.
+[22:32:41]  Loading plugin: streamer.dll
+[22:32:41] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[22:32:41]   Loaded.
+[22:32:41]  Loading plugin: sscanf.dll
+[22:32:41] 
+
+[22:32:41]  ===============================
+
+[22:32:41]       sscanf plugin loaded.     
+
+[22:32:41]          Version:  2.8.1        
+
+[22:32:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:32:41]  ===============================
+
+[22:32:41]   Loaded.
+[22:32:41]  Loaded 3 plugins.
+
+[22:32:41] 
+[22:32:41] Filterscripts
+[22:32:41] ---------------
+[22:32:41]   Loaded 0 filterscripts.
+
+[22:32:41] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[22:32:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:32:42] [system] Polaczono!
+[22:32:42] [system] wczytywanie pojazdow..
+[22:32:42] [system] 4 pojazd(ow) wczytanych
+[22:32:42] [System:] Zaczynam wczytywac organizacje....
+[22:32:42] [System] Wczytano 3 organizacji
+[22:32:42] [system] wczytuje budynki..
+[22:32:42] [system] wczytano 6 budynkow
+[22:32:42] [system] wczytywanie biznesow..
+[22:32:42] [system] 19 biznesow wczytano
+[22:32:42] Number of vehicle models: 3
+[22:33:14] [connection] 127.0.0.1:51827 requests connection cookie.
+[22:33:15] Incoming connection: 127.0.0.1:51827 id: 0
+[22:33:15] [join] Thorus has joined the server (0:127.0.0.1)
+[22:35:52] [part] Thorus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[19:38:38] filterscripts = ""  (string)
+[19:38:38] 
+[19:38:38] Server Plugins
+[19:38:38] --------------
+[19:38:38]  Loading plugin: mysql.dll
+[19:38:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[19:38:39]   Loaded.
+[19:38:39]  Loading plugin: streamer.dll
+[19:38:39] 
+
+*** Streamer Plugin v2.7.5.2 by Incognito loaded ***
+
+[19:38:39]   Loaded.
+[19:38:39]  Loading plugin: sscanf.dll
+[19:38:39] 
+
+[19:38:39]  ===============================
+
+[19:38:39]       sscanf plugin loaded.     
+
+[19:38:39]          Version:  2.8.1        
+
+[19:38:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:38:39]  ===============================
+
+[19:38:39]   Loaded.
+[19:38:39]  Loaded 3 plugins.
+
+[19:38:39] 
+[19:38:39] Filterscripts
+[19:38:39] ---------------
+[19:38:39]   Loaded 0 filterscripts.
+
+[19:38:39] [system] --------- URUCHAMIANIE GAMEMODE ---------
+[19:38:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:38:39] [system] Polaczono!
+[19:38:39] [system] wczytywanie pojazdow..
+[19:38:39] [system] 4 pojazd(ow) wczytanych
+[19:38:39] [System:] Zaczynam wczytywac organizacje....
+[19:38:39] [System] Wczytano 3 organizacji
+[19:38:39] [system] wczytuje budynki..
+[19:38:40] [system] wczytano 6 budynkow
+[19:38:40] [system] wczytywanie biznesow..
+[19:38:40] [system] 19 biznesow wczytano
+[19:38:40] Number of vehicle models: 3
+[19:38:40] --- Server Shutting Down.
+[19:38:40] [system] ----------- ZAMYKANIE GAMEMODE -----------
+[19:38:40] [system] zaczynam zapisywac systemy..
